@@ -18,11 +18,11 @@ keywords = ["tonic", "testing"]
 
 [dependencies]
 bytes = "1"
-futures = "0.3"
+futures = "^0.3"
 http-body = "0.4"
 http = "0.2"
-prost = "0.7"
-tonic = "0.4"
+prost = "^0.7"
+tonic = "^0.4"
 
 [dev-dependencies]
 async-stream = "0.3"
